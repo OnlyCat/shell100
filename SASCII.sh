@@ -50,8 +50,8 @@ function contrast()
 
 echo -e "*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*"
 echo -e "*\tWelcome to the ASCII memory script\t*"
-echo -e "*\t\t1.Lower case character a-z\t*"
-echo -e "*\t\t2.Uppercase case character A-Z\t*"
+echo -e "*\t\t1.Uppercase case character a-z\t*"
+echo -e "*\t\t2.Lower case character A-Z\t*"
 echo -e "*\t\t3.Numeric case character 0-9\t*"
 echo -e "*\t\t4.Non print control character\t*"
 echo -e "*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*"
